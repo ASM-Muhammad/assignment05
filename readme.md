@@ -1,5 +1,4 @@
-Answer the following questions clearly:
-
+<h1>Q & A</h1>
 1. What is the difference between getElementById,  getElementsByClassName, and querySelector / querySelectorAll?
 
 Ans: 
